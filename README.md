@@ -1,6 +1,6 @@
 [日本語の Readme はこちら](https://github.com/baba-s/UniHierarchyMenuCustomizer/blob/master/README_JP.md)  
 
-# Unity Hierarchy Menu Customizer
+# Uni Hierarchy Menu Customizer
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20200203/20200203194906.png)
 

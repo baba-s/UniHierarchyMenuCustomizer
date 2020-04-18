@@ -1,4 +1,4 @@
-# Unity Hierarchy Menu Customizer
+# Uni Hierarchy Menu Customizer
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20200203/20200203194906.png)
 
