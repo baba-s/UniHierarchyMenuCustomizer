@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEngine;
 
-namespace KoganeEditorLib.Internal
+namespace UniHierarchyMenuCustomizer.Internal
 {
 	[CustomPropertyDrawer( typeof( HierarchyMenuSettings.Data ) )]
 	internal sealed class HierarchyMenuSettingsDataDrawer : PropertyDrawer

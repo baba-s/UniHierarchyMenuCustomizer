@@ -4,14 +4,10 @@
 
 Hierarchy を右クリックした時に表示されるメニューをカスタマイズできるエディタ拡張  
 
-![](https://img.shields.io/badge/Unity-2019.3%2B-red.svg)
-![](https://img.shields.io/badge/.NET-4.x-orange.svg)
-[![](https://img.shields.io/github/license/baba-s/unity-hierarchy-menu-customizer.svg)](https://github.com/baba-s/unity-hierarchy-menu-customizer/blob/master/LICENSE.md)
-
 ## インストール
 
 ```json
-"com.baba_s.unity-hierarchy-menu-customizer": "https://github.com/baba-s/unity-hierarchy-menu-customizer.git",
+"com.baba-s.uni-hierarchy-menu-customizer": "https://github.com/baba-s/UniHierarchyMenuCustomizer.git",
 ```
 
 manifest.json に上記の記述を追加します  

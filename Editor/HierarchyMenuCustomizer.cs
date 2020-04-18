@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace KoganeEditorLib.Internal
+namespace UniHierarchyMenuCustomizer.Internal
 {
 	[InitializeOnLoad]
 	internal static class HierarchyMenuCustomizer

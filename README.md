@@ -1,4 +1,4 @@
-[日本語の Readme はこちら](https://github.com/baba-s/unity-hierarchy-menu-customizer/blob/master/README_JP.md)  
+[日本語の Readme はこちら](https://github.com/baba-s/UniHierarchyMenuCustomizer/blob/master/README_JP.md)  
 
 # Unity Hierarchy Menu Customizer
 
@@ -6,14 +6,10 @@
 
 Editor extension that allows you to customize the menu that appears when you right-click on Hierarchy.  
 
-![](https://img.shields.io/badge/Unity-2019.3%2B-red.svg)
-![](https://img.shields.io/badge/.NET-4.x-orange.svg)
-[![](https://img.shields.io/github/license/baba-s/unity-hierarchy-menu-customizer.svg)](https://github.com/baba-s/unity-hierarchy-menu-customizer/blob/master/LICENSE.md)
-
 ## Install
 
 ```json
-"com.baba_s.unity-hierarchy-menu-customizer": "https://github.com/baba-s/unity-hierarchy-menu-customizer.git",
+"com.baba-s.uni-hierarchy-menu-customizer": "https://github.com/baba-s/UniHierarchyMenuCustomizer.git",
 ```
 
 Add the above dependencies to manifest.json.  

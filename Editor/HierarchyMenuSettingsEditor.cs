@@ -2,7 +2,7 @@
 using UnityEditorInternal;
 using UnityEngine;
 
-namespace KoganeEditorLib.Internal
+namespace UniHierarchyMenuCustomizer.Internal
 {
 	[CustomEditor( typeof( HierarchyMenuSettings ) )]
 	internal sealed class HierarchyMenuSettingsEditor : Editor

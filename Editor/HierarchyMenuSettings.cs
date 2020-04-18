@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace KoganeEditorLib.Internal
+namespace UniHierarchyMenuCustomizer.Internal
 {
-	[CreateAssetMenu( fileName = "HierarchyMenuSettings", order = 9000 )]
+	[CreateAssetMenu( fileName = "HierarchyMenuSettings", menuName = "UniHierarchyMenuCustomizer/HierarchyMenuSettings", order = 9000 )]
 	internal sealed class HierarchyMenuSettings : ScriptableObject
 	{
 		[SerializeField] private Data[] m_list = null;
